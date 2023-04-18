@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(86, 75, 75);
+}
+
+#peliAlusta {
+    float: left;
+    margin-left: 50px;
+    margin-top: 120px;
+}
+
+#vihollisenAlusta {
+    float: right;
+    margin-right: 50px;
+    margin-top: 120px;
+}
+
+.nappula {
+    color: brown;
+    height: 30px;
+    margin: auto;
+}
+
+tr button{
+    background-color: crimson;
+    color: white;
+}
